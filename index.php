@@ -1,3 +1,3 @@
 <?php
-    echo "index.php";
+    echo "index.php <br />";
     phpinfo();
