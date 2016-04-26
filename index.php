@@ -1,2 +1,3 @@
 <?php
-phpinfo();
+    echo "index.php";
+    phpinfo();
