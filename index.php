@@ -3,4 +3,4 @@
     echo "========= <br />";
     phpinfo();
     echo "========= ========<br />";
-    echo "Copyright 2016";
+    echo "Copyright 2016 - Wellington";
